@@ -18,9 +18,9 @@ public class Lr3
         
         out.println("\nCALCULATING TASK 2:");
         result = task2(a);
-        out.printf("\nPositive number coun:%d, Negative numbers count:%d, Zero count:%d\n", result[0], result[1], result[2]);
+        out.printf("\nPositive number count:%d, Negative numbers count:%d, Zero count:%d\n", result[0], result[1], result[2]);
         result = task2(b);
-        out.printf("\nPositive number coun:%d, Negative numbers count:%d, Zero count:%d\n", result[0], result[1], result[2]);
+        out.printf("\nPositive number count:%d, Negative numbers count:%d, Zero count:%d\n", result[0], result[1], result[2]);
         
         out.println("\nCALCULATING TASK 3:");
         out.print("Input x:\n");
